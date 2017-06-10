@@ -1,4 +1,4 @@
-# Slush Sisense-react [![Build Status](https://secure.travis-ci.org/leofle/slush-sisense-react.png?branch=master)](https://travis-ci.org/leofle/slush-sisense-react) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-sisense-react.png)](http://badges.enytc.com/for/npm/slush-sisense-react)
+# slush-sisense-react [![Build Status](https://secure.travis-ci.org/leofle/slush-sisense-react.png?branch=master)](https://travis-ci.org/leofle/slush-sisense-react) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-sisense-react.png)](http://badges.enytc.com/for/npm/slush-sisense-react)
 
 > Generator for React modules
 
