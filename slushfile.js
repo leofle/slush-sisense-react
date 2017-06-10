@@ -44,9 +44,9 @@
 
      return {
          appName: workingDirName,
-         userName: osUserName || format(user.name || ''),
-         authorName: user.name || '',
-         authorEmail: user.email || ''
+         userName: osUserName || format((user && user.name) || ''),
+         authorName: (user && user.name) || '',
+         authorEmail: (user && user.email) || ''
      };
  })();
 
