@@ -21,7 +21,7 @@ $ yarn global add slush-sisense-react
 Go to the parent folder of your Component:
 
 ```bash
-$ $ cd my-components-parent-folder
+$ cd my-components-parent-folder
 ```
 
 Run the generator:
