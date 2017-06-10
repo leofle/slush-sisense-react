@@ -7,31 +7,28 @@
 
 Install `slush-sisense-react` globally:
 
+npm or yarn
 ```bash
-$ npm install -g slush-sisense-react
+$ npm install -g slush-sisense-react 
+```
+
+```bash
+$ yarn global add slush-sisense-react 
 ```
 
 ### Usage
 
-Create a new folder for your project:
+Go to the parent folder of your Component:
 
 ```bash
-$ mkdir my-slush-sisense-react
+$ $ cd my-components-parent-folder
 ```
 
-Run the generator from within the new folder:
+Run the generator:
 
 ```bash
-$ cd my-slush-sisense-react && slush sisense-react
+$ slush sisense-react
 ```
-
-## Getting To Know Slush
-
-Slush is a tool that uses Gulp for project scaffolding.
-
-Slush does not contain anything "out of the box", except the ability to locate installed slush generators and to run them with liftoff.
-
-To find out more about Slush, check out the [documentation](https://github.com/slushjs/slush).
 
 ## Contributing
 
