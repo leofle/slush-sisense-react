@@ -1,7 +1,7 @@
 {
   "name": "slush-sisense-react",
   "description": "Generator for React modules",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "homepage": "https://github.com/leofle/slush-sisense-react",
   "author": {
     "name": "Lio Fleishman",
